@@ -1,0 +1,20 @@
+{
+    "Author": "Sujay Talasila [MSFT]",
+    "ContentSize": 9155,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-storsimple-virtual-appliance/master/Start-StorSimple-Virtual-Appliance.ps1",
+    "DownloadCount": 1405,
+    "Id": "Start-StorSimple-Virtual-cf7a6764",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 591,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-25T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook starts the StorSimple virtual appliance in case it is in shut down state. This script is to be used in the context of ASR (Azure Site Recovery) recovery plan for workloads hosted on StorSimple devices.",
+    "Title": "Start StorSimple Virtual Appliance",
+    "UpdatedDate": "2017-10-4T00:00:00",
+    "Url": "https://github.com/azureautomation/start-storsimple-virtual-appliance",
+    "UserTags": "Disaster Recovery, Azure Site Recovery, StorSimple"
+}
